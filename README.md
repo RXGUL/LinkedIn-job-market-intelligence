@@ -82,7 +82,7 @@ linkedin-job-market-intelligence/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/ragulv73/linkedin-job-market-intelligence.git
+git clone https://github.com/RXGUL/LinkedIn-job-market-intelligence.git
 cd linkedin-job-market-intelligence
 
 # 2. Install dependencies
